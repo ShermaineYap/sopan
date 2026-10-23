@@ -207,7 +207,7 @@ function TryOn() {
                 <label className="toggle"><input type="checkbox" checked={showUnmasked} onChange={(e) => { setShowUnmasked(e.target.checked); setShowOverlay(false); }} /> Compare: without Sopan&rsquo;s head-masking</label>
               )}
             </div>
-            {showUnmasked && <p className="small muted">Same shopper and garment, sent to the engine without hiding the seller model&rsquo;s head. In the study the engine copied the model&rsquo;s tudung in 10 of 16 renders like this.</p>}
+            {showUnmasked && <p className="small muted">Same shopper and garment, sent to the engine without hiding the seller model&rsquo;s head. In the study the engine changed the shopper&rsquo;s tudung in 10 of 16 renders like this, often copying the model&rsquo;s.</p>}
             <p className="label-honest">Visual preview made with YouCam AI. It shows style and colour, not fit, size or how sheer the fabric is. {result.seconds ? `Rendered in ${result.seconds} s, ${result.units} units.` : "Demo render, no units spent."}</p>
           </div>
         )}
