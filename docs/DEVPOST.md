@@ -6,7 +6,7 @@
 
 **Built with:** YouCam API (AI Clothes Virtual Try-On cloth-v4, AI Facial Color Tones Analyzer), Next.js, TypeScript, MediaPipe Tasks Vision, Gemini (optional), Vercel
 
-**Links:** Live app: `<VERCEL URL>` · Repo: https://github.com/ShermaineYap/sopan · Video: `<YOUTUBE URL>`
+**Links:** Live app: https://sopan-steel.vercel.app · Repo: https://github.com/ShermaineYap/sopan · Video: `<YOUTUBE URL>`
 
 **Judges' quick path:** open the live app → **Try on** → pick a sample model → *Try it on*. Sample models on demo listings use stored real YouCam renders (no units spent), and the tudung check runs live in your browser. Then switch to *Lace Sleeveless Party Dress* to see the coverage gate and a "Skin showing" result. To test a fully live render, upload your own chest-up photo (2 units).
 

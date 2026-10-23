@@ -12,7 +12,7 @@ Generative try-on was designed around uncovered hair. In our tests, YouCam's eng
 
 Sellers get a listing pack on three hijab-wearing models plus a "try it on me" link for their Shopee / TikTok Shop / Instagram caption or live stream.
 
-**Live demo:** _add Vercel URL here_ · **Video:** _add YouTube URL here_
+**Live demo:** https://sopan-steel.vercel.app · **Video:** _add YouTube URL here_
 
 ## YouCam APIs used
 
